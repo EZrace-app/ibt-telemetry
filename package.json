@@ -1,6 +1,6 @@
 {
   "name": "@ezrace-app/ibt-telemetry",
-  "version": "1.1.10",
+  "version": "1.1.11",
   "description": "iRacing ibt parser",
   "keywords": [
     "iracing",
